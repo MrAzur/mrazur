@@ -1,4 +1,5 @@
-Hi 👋 My name is Azuris
+Ahoj, 👋 volám sa Azuris.
+Pochádzam zo slovenska 🇸🇰 a venujem sa programovaniu webových stránok a scriptov do hry FiveM.
 =======================
 
 <a href="https://www.github.com/mrazur" target="_blank" rel="noreferrer"><img
