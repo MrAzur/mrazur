@@ -1,5 +1,4 @@
-Ahoj, 👋 volám sa Azuris.
-Pochádzam zo slovenska 🇸🇰 a venujem sa programovaniu webových stránok a scriptov do hry FiveM.
+Azuris.
 =======================
 
 <a href="https://www.github.com/mrazur" target="_blank" rel="noreferrer"><img
